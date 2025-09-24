@@ -37,7 +37,7 @@ Solution: [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 
 
 #### Part III: 
-Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailab-vienna/tutorials2025/blob/main/tutorial-xai/solutions/3_gradients-xaisec.ipynb)
+Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailab-vienna/tutorials2025/blob/main/tutorial-xai/notebooks/3_gradients-xaisec.ipynb)
 
 Solution: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailab-vienna/tutorials2025/blob/main/tutorial-xai/solutions/3_gradients-xaisec_solution.ipynb)
 
