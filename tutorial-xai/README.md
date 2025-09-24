@@ -41,4 +41,4 @@ Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 
 Solution: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailab-vienna/tutorials2025/blob/main/tutorial-xai/solutions/3_gradients-xaisec_solution.ipynb)
 
-Evaluation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailab-vienna/tutorials2025/blob/main/tutorial-xai/solutions/4_gradients_xaisec-eval_solution.ipynb)
+Evaluation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailab-vienna/tutorials2025/blob/main/tutorial-xai/solutions/4_gradients-xaisec-eval_solution.ipynb)
