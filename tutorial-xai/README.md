@@ -25,20 +25,20 @@ The resources for this session will be shared with you via Google Drive. To acce
 ### Notebooks
 
 #### Part I: 
-Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AISEC-Summerschool/tutorials2025/blob/main/tutorial-xai/notebooks/1_gradients-101.ipynb)
+Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailab-vienna/tutorials2025/blob/main/tutorial-xai/notebooks/1_gradients-101.ipynb)
 
-Solution: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AISEC-Summerschool/tutorials2025/blob/main/tutorial-xai/solutions/1_gradients-101_solution.ipynb)
+Solution: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailab-vienna/tutorials2025/blob/main/tutorial-xai/solutions/1_gradients-101_solution.ipynb)
 
 
 #### Part II: 
-Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AISEC-Summerschool/tutorials2025/blob/main/tutorial-xai/notebooks/2_gradients-xai.ipynb)
+Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailab-vienna/tutorials2025/blob/main/tutorial-xai/notebooks/2_gradients-xai.ipynb)
 
-Solution: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AISEC-Summerschool/tutorials2025/blob/main/tutorial-xai/solutions/2_gradients-xai_solution.ipynb)
+Solution: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailab-vienna/tutorials2025/blob/main/tutorial-xai/solutions/2_gradients-xai_solution.ipynb)
 
 
 #### Part III: 
-Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AISEC-Summerschool/tutorials2025/blob/main/tutorial-xai/solutions/3_gradients-xaisec.ipynb)
+Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailab-vienna/tutorials2025/blob/main/tutorial-xai/solutions/3_gradients-xaisec.ipynb)
 
-Solution: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AISEC-Summerschool/tutorials2025/blob/main/tutorial-xai/solutions/3_gradients-xaisec_solution.ipynb)
+Solution: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailab-vienna/tutorials2025/blob/main/tutorial-xai/solutions/3_gradients-xaisec_solution.ipynb)
 
 Evaluation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AISEC-Summerschool/tutorials2025/blob/main/tutorial-xai/solutions/4_gradients_xaisec-eval_solution.ipynb)
